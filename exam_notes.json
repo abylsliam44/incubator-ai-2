@@ -1,0 +1,64 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "heading": "Definite Integral",
+      "summary": "Numeric area under curve between limits.",
+      "page_ref": 2
+    },
+    {
+      "id": 2,
+      "heading": "Indefinite Integral",
+      "summary": "Family of antiderivatives plus constant C.",
+      "page_ref": 2
+    },
+    {
+      "id": 3,
+      "heading": "Mean Value Theorem",
+      "summary": "If f is cont.[a,b] & diff.(a,b) then \u2203c: f'(c)=(f(b)-f(a))/(b-a).",
+      "page_ref": 2
+    },
+    {
+      "id": 4,
+      "heading": "FTC Part I",
+      "summary": "Derivative of integral returns original integrand.",
+      "page_ref": 2
+    },
+    {
+      "id": 5,
+      "heading": "FTC Part II",
+      "summary": "Evaluate definite integral using antiderivative F(b)-F(a).",
+      "page_ref": 2
+    },
+    {
+      "id": 6,
+      "heading": "u\u2011Substitution",
+      "summary": "Change variable to simplify integrand; integrate in terms of u.",
+      "page_ref": 1
+    },
+    {
+      "id": 7,
+      "heading": "Integration by Parts",
+      "summary": "\u222bu dv = uv - \u222bv du, choose u,dv wisely.",
+      "page_ref": 2
+    },
+    {
+      "id": 8,
+      "heading": "Continuity",
+      "summary": "Function w/out breaks/holes on interval; required in many theorems.",
+      "page_ref": 2
+    },
+    {
+      "id": 9,
+      "heading": "Differentiability",
+      "summary": "Derivative exists at each point; implies local linearity.",
+      "page_ref": 1
+    },
+    {
+      "id": 10,
+      "heading": "Critical Points",
+      "summary": "Where f'(x)=0 or undefined; potential extrema.",
+      "page_ref": 2
+    }
+  ]
+}
